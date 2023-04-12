@@ -1,0 +1,43 @@
+
+
+.cabecalho{
+    color: rgb(20, 20, 46);
+    background-color: rgba(81, 6, 151, 0.479);
+    padding: 1rem;
+    font-family: sans-serif;
+}
+/*.cabecalho h1{
+    color: rgb(99, 99, 204);
+}*/
+
+img{
+    height: 15rem;
+    width: 25rem;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    body{
+        background-color: rgba(97, 24, 165, 0.507);
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+}
